@@ -1,9 +1,9 @@
 # Kurganov Sergey
----
 
 ## Contacts
-- **Email:** friend_16@mail.ru
+- **Discord:** Sergey (@kksergg)
 - **TG:** kotbegemod
+- **Email:** friend_16@mail.ru
 - **Github:** https://github.com/kksergg/
 ---
 ## About me
@@ -11,7 +11,10 @@ I'm 28 years old. I have been working as an accountant for a year now. But I am 
 ---
 
 ## Skills 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- Figma
 ---
 ## Code example
 
@@ -20,8 +23,11 @@ I'm 28 years old. I have been working as an accountant for a year now. But I am 
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
 ---
 ## Education
-Образование (включая пройденные курсы и тренинги)
+- **University:** Far East Transport University, Railway engineer 
+- **Courses:**
+    - [**HTML Academy:**](https://www.htmlacademy.ru/) HTML/CSS
+    - Web Technologies (WorldSkills): HTML/CSS
 ---
 ## English
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+Pre-intermediate
 ---
