@@ -36,4 +36,3 @@ function multiply(a, b){
 
 
 Pre-intermediate
----
