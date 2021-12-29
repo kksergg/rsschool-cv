@@ -4,7 +4,7 @@
 - **Discord:** Sergey (@kksergg)
 - **TG:** @kotbegemod
 - **Email:** friend_16@mail.ru
-- **Github:** https://github.com/kksergg/
+- **Github:** [kksergg](https://github.com/kksergg/)
 ---
 
 ## About me
