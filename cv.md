@@ -2,10 +2,12 @@
 ---
 
 ## Contacts
-
+- **Email:** friend_16@mail.ru
+- **TG:** kotbegemod
+- **Github:** https://github.com/kksergg/
 ---
 ## About me
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+I'm 28 years old. I have been working as an accountant for a year now. But I am looking for different opportunities to become an IT professional. I want to gain knowledge and skills at this schools in the field of front-end development, which is enough for employment in an IT company.
 ---
 
 ## Skills 
