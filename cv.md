@@ -17,10 +17,14 @@ I'm 28 years old. I have been working as an accountant for a year now. But I am 
 - Figma
 ---
 ## Code example
-
+```
+function multiply(a, b){
+  return a * b;
+};
+```
 ---
 ## Experience
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+[rsschool-cv](https://kksergg.github.io/rsschool-cv/)
 ---
 ## Education
 - **University:** Far East Transport University, Railway engineer 
